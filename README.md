@@ -37,7 +37,7 @@ The goal was to simulate 10 peer processes managing access to a shared critical 
 
 ####  Critical Section Execution
 ![Critical Section : Simulation](Simulation_2.png)
-![Critical Section : Simulation](Simulation_2-2.png)
+![Critical Section 2: Simulation 2](Simulation_2-2.png)
 
 ---
 
