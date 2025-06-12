@@ -30,13 +30,13 @@ The goal was to simulate 10 peer processes managing access to a shared critical 
 ###  Demo Screenshots:
 
 ####  Initial 
-![Initial](first.png)
+![First interface ](First.png)
 
 ####  Processes 
 ![Processes Initial State ](Simulation_1.png)
 
 ####  Critical Section Execution
-![Critical Section](Simulation_1.png)
+![Critical Section : Simulation](Simulation_2.png)
 
 ---
 
