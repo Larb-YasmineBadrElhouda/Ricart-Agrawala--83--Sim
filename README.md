@@ -52,6 +52,6 @@ cd Ricart-Agrawala--83--Sim
 # 3. Compile the Java file
 javac RicartAgrawalaSimulation.java
 
-# 4. Run one process 
+# 4. Run  
 java RicartAgrawalaSimulation
 
